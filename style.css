@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Josefin+Sans&family=Noto+Serif&family=Poppins&family=Prata&display=swap');
+ *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Josefin Sans',
+    
+}
+h1{
+    font-size: 45px;
+}
+.section-container{
+    background-color: rgb(231, 236, 221);
+    background-image: url(images/Cow-market\ 2\ eid\ 2020.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 300px;
+    padding-top: 50px;
+
+}
+.section-container img{
+    width: 100%;
+}
+.div-content{
+    width: 50%;
+    color: white;
+    margin-left: 70px;
+}
+.donation-link{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: white;
+}
+.header-section{
+    margin-bottom: 50px;
+}
